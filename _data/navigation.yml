@@ -10,12 +10,9 @@
 main:
   - title: "English CV"
     url: /cv_en/
-
   - title: "Chinese CV"
     url: /cv_ch/
-    
-  # - title: "CV"
-  #   url: /cv-json/
-    
-  - title: "Guide"
-    url: /markdown/
+  - title: "Research & Projects"
+    url: /research/
+  - title: "Internship"
+    url: /internship/
