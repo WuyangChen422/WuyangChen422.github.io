@@ -15,5 +15,5 @@ My current research and development focus includes the path planning and motion 
 
 ### Research Interests
 * Embodied AI
-* Autonomous Underwater Robots (AUR) / Autonomous Underwater Vehicles (AUR)
+* Autonomous Underwater Robots (AUR) / Autonomous Underwater Vehicles (AUV)
 * World Models
