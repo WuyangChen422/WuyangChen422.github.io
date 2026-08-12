@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I received the B.Eng. degree in computer science and technology from School of Computer Science \& Technology, Beijing Jiaotong University, Beijing, China, in 2025. I am currently working toward the postgraduate degree with Department of Computer Science, City University of Hong Kong, Hong Kong, China, with an expected graduation in **October 2026**.
+I received the B.Eng. degree in computer science and technology from School of Computer Science & Technology, Beijing Jiaotong University, Beijing, China, in 2025. I am currently working toward the postgraduate degree with Department of Computer Science, City University of Hong Kong, Hong Kong, China, with an expected graduation in **October 2026**.
 
 [Download CV (English)](/files/cv_en_CHENWuyang.pdf){: .btn .btn--info}  [下载简历 (中文)](/files/cv_ch_CHENWuyang.pdf){: .btn .btn--success}
 
