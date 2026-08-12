@@ -17,5 +17,5 @@ I received the B.Eng. degree in computer science and technology from School of C
 ### Research Interests
 * Neural networks for control
 * Deep learning for autonomous vehicles
+* Reinforcement learning
 * Embodied AI
-* Control engineering
