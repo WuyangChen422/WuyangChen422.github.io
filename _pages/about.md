@@ -11,8 +11,6 @@ I received the B.Eng. degree in computer science and technology from School of C
 
 [Download CV (English)](/files/cv_en_CHENWuyang.pdf){: .btn .btn--info}  [下载简历 (中文)](/files/cv_ch_CHENWuyang.pdf){: .btn .btn--success}
 
-My current research and development focus includes the path planning and motion control of **Autonomous Underwater Robots (AUR)**, Involving Receding-Horizon Planning, nonlinear ESO, ocean dynamics, as well as simulations based on MuJoCo and ROS. I also have practical engineering experience, including an internship focusing on generative AI models at Institute of Software, Chinese Academy of Sciences and a front-end development internship at Tencent.
-
 ### Publications
 **Wuyang Chen**, **[Wenqi Wu](https://scholar.google.com/citations?user=1gd3BkkAAAAJ&sortby=pubdate)**, and **[Jun Wang](https://scholars.cityu.edu.hk/en/persons/jwang358/)**. "A Cascaded Planner-Governor Approach to Path Planning of Autonomous Underwater Vehicles with Obstacle Avoidance" *Submitted to IEEE Transactions on Intelligent Vehicles (T-IV)*. Under Review.
 
